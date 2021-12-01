@@ -50,15 +50,16 @@ export const fetchSearchPokemon = (pokemonName) => {
 };
 
 export const fetchTypes = async () => {
-  const res = fetch(`https://pokedex-alchemy.herokuapp.com/api/pokedex/types`);
+  const res = await fetch(`https://pokedex-alchemy.herokuapp.com/api/pokedex/types`);
 
-  const pokemonTypes = res.json();
+  const pokemonTypes = await res.json();
 
   // get random types
   const randomTypes = pokemonTypes
     .map((pokemonType) => ({type: pokemonType.type}))
     .sort(() => 0.5 - Math.random())
     .slice(0, 5);
+    
   return randomTypes;
 };
 

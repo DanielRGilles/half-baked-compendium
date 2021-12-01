@@ -8,7 +8,7 @@ export default function FilterForm({types, filterChange, selectedType}) {
       >
         <option value='all'>All</option>
         {types.map(({type}) => (
-          <option value={type}>{type}</option>
+          <option key={type} value={type}>{type}</option>
         ))}
       </select>
     </div>

@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays a list of pokemon 1`] = `
+<ul
+  aria-label="pokemonList"
+  class="pokemonList"
+>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Charizard-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Charizard
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          blaze
+        </p>
+        <p>
+          fire
+          /flying
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Typhlosion-Second Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Typhlosion
+        </h2>
+        <p>
+          Second Generation
+        </p>
+        <p>
+          blaze
+        </p>
+        <p>
+          fire
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Blaziken-Third Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Blaziken
+        </h2>
+        <p>
+          Third Generation
+        </p>
+        <p>
+          blaze
+        </p>
+        <p>
+          fire
+          /fighting
+        </p>
+      </div>
+    </figure>
+  </li>
+</ul>
+`;

@@ -1,0 +1,312 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should fetch then render a list of pokemon 1`] = `
+<ul
+  aria-label="pokemonList"
+  class="pokemonList"
+>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Charizard-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Charizard
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          Blaze
+        </p>
+        <p>
+          Fire
+          /Flying
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Typhlosion-Second Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Typhlosion
+        </h2>
+        <p>
+          Second Generation
+        </p>
+        <p>
+          Blaze
+        </p>
+        <p>
+          Fire
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Blaziken-Third Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Blaziken
+        </h2>
+        <p>
+          Third Generation
+        </p>
+        <p>
+          Blaze
+        </p>
+        <p>
+          Fire
+          /Fighting
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Mewtwo-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Mewtwo
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          Pressure
+        </p>
+        <p>
+          Psychic
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Suicune-Second Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/245.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Suicune
+        </h2>
+        <p>
+          Second Generation
+        </p>
+        <p>
+          Pressure
+        </p>
+        <p>
+          Water
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Pidgeot-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Pidgeot
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          Keen-eye
+          /Tangled-feet
+        </p>
+        <p>
+          Normal
+          /Flying
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Golduck-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/055.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Golduck
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          Damp
+          /Cloud-nine
+        </p>
+        <p>
+          Water
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Gardevoir-Third Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/282.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Gardevoir
+        </h2>
+        <p>
+          Third Generation
+        </p>
+        <p>
+          Synchronize
+          /Trace
+        </p>
+        <p>
+          Psychic
+          /Fairy
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Ninetales-First Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Ninetales
+        </h2>
+        <p>
+          First Generation
+        </p>
+        <p>
+          Flash-fire
+        </p>
+        <p>
+          Fire
+        </p>
+      </div>
+    </figure>
+  </li>
+  <li
+    class="listItem"
+  >
+    <figure
+      aria-label="pokemon"
+    >
+      <img
+        alt="Houndoom-Second Generation"
+        src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/229.png"
+      />
+      <div
+        class="details"
+      >
+        <h2>
+          Houndoom
+        </h2>
+        <p>
+          Second Generation
+        </p>
+        <p>
+          Early-bird
+          /Flash-fire
+        </p>
+        <p>
+          Dark
+          /Fire
+        </p>
+      </div>
+    </figure>
+  </li>
+</ul>
+`;
+
+exports[`should search for a pokemon 1`] = `
+Array [
+  <h2>
+    Charizard
+  </h2>,
+  <h2>
+    Charizard-mega-x
+  </h2>,
+  <h2>
+    Charizard-mega-y
+  </h2>,
+]
+`;

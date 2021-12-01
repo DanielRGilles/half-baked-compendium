@@ -1,0 +1,13 @@
+.controlsContainer {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  font-size: calc(15px + 2vmin);
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.controlsContainer > * {
+  margin: 0px 50px;
+  padding: 10px;
+}
